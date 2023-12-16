@@ -1,0 +1,2932 @@
+{
+    "about": "Here is the data you requested. Remember: Telegram is ad free, it doesn't use your data for ad targeting and doesn't sell it to others. Telegram only keeps the information it needs to function as a secure and feature-rich cloud service.\n\nCheck out Settings > Privacy & Security on Telegram's mobile apps for the relevant settings.",
+    "chats": {
+        "about": "This page lists all chats from this export.",
+        "list": [
+            {
+                "name": "Telegram",
+                "type": "personal_chat",
+                "id": 777000,
+                "messages": [
+                    {
+                        "id": 320,
+                        "type": "message",
+                        "date": "2019-11-29T21:42:22",
+                        "date_unixtime": "1575034942",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 23664. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 23664. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 371,
+                        "type": "message",
+                        "date": "2019-12-29T21:44:05",
+                        "date_unixtime": "1577627045",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 65218. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 65218. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3538,
+                        "type": "message",
+                        "date": "2020-04-02T21:09:04",
+                        "date_unixtime": "1585832944",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "For updates on the COVID-19 situation in Singapore, join the official ",
+                            {
+                                "type": "mention",
+                                "text": "@GovSg"
+                            },
+                            " Telegram channel. Tap: ",
+                            {
+                                "type": "link",
+                                "text": "http://t.me/govsg"
+                            },
+                            ", then tap 'Join'."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "For updates on the COVID-19 situation in Singapore, join the official "
+                            },
+                            {
+                                "type": "mention",
+                                "text": "@GovSg"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " Telegram channel. Tap: "
+                            },
+                            {
+                                "type": "link",
+                                "text": "http://t.me/govsg"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ", then tap 'Join'."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3602,
+                        "type": "message",
+                        "date": "2020-04-07T20:55:45",
+                        "date_unixtime": "1586264145",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "Helping health authorities spread accurate information about the pandemic through verified channels.\n",
+                            {
+                                "type": "link",
+                                "text": "https://telegram.org/blog/coronavirus"
+                            }
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "Helping health authorities spread accurate information about the pandemic through verified channels.\n"
+                            },
+                            {
+                                "type": "link",
+                                "text": "https://telegram.org/blog/coronavirus"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3626,
+                        "type": "message",
+                        "date": "2020-04-11T02:06:21",
+                        "date_unixtime": "1586541981",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "For updates on the COVID-19 situation in Singapore, join the official ",
+                            {
+                                "type": "mention",
+                                "text": "@GovSg"
+                            },
+                            " Telegram channel. Tap: ",
+                            {
+                                "type": "link",
+                                "text": "http://t.me/govsg"
+                            },
+                            ", then tap 'Join'."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "For updates on the COVID-19 situation in Singapore, join the official "
+                            },
+                            {
+                                "type": "mention",
+                                "text": "@GovSg"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " Telegram channel. Tap: "
+                            },
+                            {
+                                "type": "link",
+                                "text": "http://t.me/govsg"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ", then tap 'Join'."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4718,
+                        "type": "message",
+                        "date": "2020-07-07T19:12:28",
+                        "date_unixtime": "1594120348",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 25994. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 25994. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5022,
+                        "type": "message",
+                        "date": "2020-08-14T21:52:46",
+                        "date_unixtime": "1597413166",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 40408. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 40408. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5813,
+                        "type": "message",
+                        "date": "2020-11-06T22:19:55",
+                        "date_unixtime": "1604672395",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 43855. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 43855. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5841,
+                        "type": "message",
+                        "date": "2021-01-19T19:15:35",
+                        "date_unixtime": "1611054935",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "Telegram surpassed ",
+                            {
+                                "type": "text_link",
+                                "text": "500",
+                                "href": "https://t.me/durov/147"
+                            },
+                            " ",
+                            {
+                                "type": "bold",
+                                "text": "million active users"
+                            },
+                            ". \n \nIn the past ",
+                            {
+                                "type": "bold",
+                                "text": "72 hours"
+                            },
+                            " alone, more than ",
+                            {
+                                "type": "bold",
+                                "text": "25 million"
+                            },
+                            " new users from around the world joined Telegram.\n\n",
+                            {
+                                "type": "bold",
+                                "text": "Thank you!"
+                            },
+                            " These milestones were made possible by users like you who invite their friends to Telegram. \n\nIf you have contacts that joined in the last few days, you can welcome them using one of Telegram’s unique features, such as an animated sticker or a video message.\n\nTo find out more about Telegram features, have a look at ",
+                            {
+                                "type": "link",
+                                "text": "https://t.me/TelegramTips/233"
+                            },
+                            ""
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "Telegram surpassed "
+                            },
+                            {
+                                "type": "text_link",
+                                "text": "500",
+                                "href": "https://t.me/durov/147"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "million active users"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ". \n \nIn the past "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "72 hours"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " alone, more than "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "25 million"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " new users from around the world joined Telegram.\n\n"
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Thank you!"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " These milestones were made possible by users like you who invite their friends to Telegram. \n\nIf you have contacts that joined in the last few days, you can welcome them using one of Telegram’s unique features, such as an animated sticker or a video message.\n\nTo find out more about Telegram features, have a look at "
+                            },
+                            {
+                                "type": "link",
+                                "text": "https://t.me/TelegramTips/233"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5855,
+                        "type": "message",
+                        "date": "2021-03-23T00:57:29",
+                        "date_unixtime": "1616432249",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Move Chat History from Other Apps"
+                            },
+                            "\n\n• Move your message history from other apps such as WhatsApp, Line and KakaoTalk to Telegram.\n• Use the Export Chat function in the other app, then Share the exported file to Telegram (see blog post for detailed instructions).\n\n",
+                            {
+                                "type": "bold",
+                                "text": "More Privacy"
+                            },
+                            "\n• Delete messages, groups you created, secret chats, and call history for all sides, without a trace.\n\nMore about this update:\n",
+                            {
+                                "type": "link",
+                                "text": "https://telegram.org/blog/move-history"
+                            },
+                            ""
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Move Chat History from Other Apps"
+                            },
+                            {
+                                "type": "plain",
+                                "text": "\n\n• Move your message history from other apps such as WhatsApp, Line and KakaoTalk to Telegram.\n• Use the Export Chat function in the other app, then Share the exported file to Telegram (see blog post for detailed instructions).\n\n"
+                            },
+                            {
+                                "type": "bold",
+                                "text": "More Privacy"
+                            },
+                            {
+                                "type": "plain",
+                                "text": "\n• Delete messages, groups you created, secret chats, and call history for all sides, without a trace.\n\nMore about this update:\n"
+                            },
+                            {
+                                "type": "link",
+                                "text": "https://telegram.org/blog/move-history"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11624,
+                        "type": "message",
+                        "date": "2021-06-21T12:26:29",
+                        "date_unixtime": "1624249589",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 98826. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 98826. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16243,
+                        "type": "message",
+                        "date": "2021-07-15T21:34:16",
+                        "date_unixtime": "1626356056",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 81145. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 81145. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17034,
+                        "type": "message",
+                        "date": "2021-07-25T15:55:21",
+                        "date_unixtime": "1627199721",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 35249. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 35249. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18586,
+                        "type": "message",
+                        "date": "2021-08-07T10:54:58",
+                        "date_unixtime": "1628304898",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 28179. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 28179. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19061,
+                        "type": "message",
+                        "date": "2021-08-20T16:18:37",
+                        "date_unixtime": "1629447517",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 39923. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 39923. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19849,
+                        "type": "message",
+                        "date": "2021-08-27T19:13:25",
+                        "date_unixtime": "1630062805",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 95551. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 95551. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21083,
+                        "type": "message",
+                        "date": "2021-09-03T18:06:08",
+                        "date_unixtime": "1630663568",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 67364. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 67364. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 32386,
+                        "type": "message",
+                        "date": "2021-10-13T21:09:02",
+                        "date_unixtime": "1634130542",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 51533. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 51533. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 35599,
+                        "type": "message",
+                        "date": "2021-10-29T21:15:13",
+                        "date_unixtime": "1635513313",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 16045. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 16045. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 37044,
+                        "type": "message",
+                        "date": "2021-11-05T16:24:41",
+                        "date_unixtime": "1636100681",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 38086. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 38086. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 37045,
+                        "type": "message",
+                        "date": "2021-11-05T18:01:26",
+                        "date_unixtime": "1636106486",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 13851. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 13851. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 38576,
+                        "type": "message",
+                        "date": "2021-11-19T21:04:31",
+                        "date_unixtime": "1637327071",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 72440. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 72440. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 39198,
+                        "type": "message",
+                        "date": "2021-11-27T12:52:11",
+                        "date_unixtime": "1637988731",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 53252. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 53252. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 56940,
+                        "type": "message",
+                        "date": "2022-02-13T22:44:41",
+                        "date_unixtime": "1644763481",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 47350. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 47350. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 60073,
+                        "type": "message",
+                        "date": "2022-02-25T13:29:01",
+                        "date_unixtime": "1645766941",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 65742. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 65742. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 60831,
+                        "type": "message",
+                        "date": "2022-03-07T22:46:24",
+                        "date_unixtime": "1646664384",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 85419. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 85419. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 60864,
+                        "type": "message",
+                        "date": "2022-03-10T14:22:49",
+                        "date_unixtime": "1646893369",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 75494. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 75494. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 74540,
+                        "type": "message",
+                        "date": "2022-06-03T19:28:16",
+                        "date_unixtime": "1654255696",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 89586. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 89586. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 76306,
+                        "type": "message",
+                        "date": "2022-06-16T08:17:23",
+                        "date_unixtime": "1655338643",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 49853. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 49853. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 76548,
+                        "type": "message",
+                        "date": "2022-06-18T17:34:04",
+                        "date_unixtime": "1655544844",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 88402. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 88402. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 95209,
+                        "type": "message",
+                        "date": "2022-09-10T16:20:14",
+                        "date_unixtime": "1662798014",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 79621. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 79621. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 100457,
+                        "type": "message",
+                        "date": "2022-10-16T13:22:03",
+                        "date_unixtime": "1665897723",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 27058. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 27058. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 100641,
+                        "type": "message",
+                        "date": "2022-10-19T16:11:41",
+                        "date_unixtime": "1666167101",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 22424. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 22424. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 100727,
+                        "type": "message",
+                        "date": "2022-10-20T10:36:21",
+                        "date_unixtime": "1666233381",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 73292. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 73292. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 100728,
+                        "type": "message",
+                        "date": "2022-10-20T10:36:38",
+                        "date_unixtime": "1666233398",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 98445. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 98445. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 102878,
+                        "type": "message",
+                        "date": "2022-11-12T19:10:53",
+                        "date_unixtime": "1668251453",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "Telegram users can now buy and sell short recognizable @ usernames for personal accounts, public groups and channels.\n\nThe auction for the best usernames like ",
+                            {
+                                "type": "text_link",
+                                "text": "@Paul",
+                                "href": "https://fragment.com/username/paul"
+                            },
+                            ", ",
+                            {
+                                "type": "text_link",
+                                "text": "@Mary",
+                                "href": "https://fragment.com/username/mary"
+                            },
+                            ", or ",
+                            {
+                                "type": "text_link",
+                                "text": "@Club",
+                                "href": "https://fragment.com/username/club"
+                            },
+                            " is live on Fragment:\n",
+                            {
+                                "type": "link",
+                                "text": "https://fragment.com"
+                            },
+                            "\n\nRead more on the official ",
+                            {
+                                "type": "mention",
+                                "text": "@telegram"
+                            },
+                            " channel."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "Telegram users can now buy and sell short recognizable @ usernames for personal accounts, public groups and channels.\n\nThe auction for the best usernames like "
+                            },
+                            {
+                                "type": "text_link",
+                                "text": "@Paul",
+                                "href": "https://fragment.com/username/paul"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text_link",
+                                "text": "@Mary",
+                                "href": "https://fragment.com/username/mary"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ", or "
+                            },
+                            {
+                                "type": "text_link",
+                                "text": "@Club",
+                                "href": "https://fragment.com/username/club"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " is live on Fragment:\n"
+                            },
+                            {
+                                "type": "link",
+                                "text": "https://fragment.com"
+                            },
+                            {
+                                "type": "plain",
+                                "text": "\n\nRead more on the official "
+                            },
+                            {
+                                "type": "mention",
+                                "text": "@telegram"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " channel."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 105189,
+                        "type": "message",
+                        "date": "2022-12-01T13:35:39",
+                        "date_unixtime": "1669872939",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 76301. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 76301. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 105435,
+                        "type": "message",
+                        "date": "2022-12-05T13:22:07",
+                        "date_unixtime": "1670217727",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 71956. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 71956. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 109330,
+                        "type": "message",
+                        "date": "2023-01-17T17:52:37",
+                        "date_unixtime": "1673949157",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 39179. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 39179. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 114954,
+                        "type": "message",
+                        "date": "2023-02-24T14:25:15",
+                        "date_unixtime": "1677219915",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Enable Two-Step Verification"
+                            },
+                            "\nDear ceewai, your account is currently ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " protected with an additional password and only requires an SMS code to log in.\n\nFor your security, Telegram recommends that you ",
+                            {
+                                "type": "bold",
+                                "text": "set up a password"
+                            },
+                            " in ",
+                            {
+                                "type": "italic",
+                                "text": "Settings > Privacy & Security > Two-Step Verification"
+                            },
+                            ".\n\nThis password will be required each time you log in on a new device. This way, simply entering an SMS code will not be enough to access any of your data."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Enable Two-Step Verification"
+                            },
+                            {
+                                "type": "plain",
+                                "text": "\nDear ceewai, your account is currently "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " protected with an additional password and only requires an SMS code to log in.\n\nFor your security, Telegram recommends that you "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "set up a password"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " in "
+                            },
+                            {
+                                "type": "italic",
+                                "text": "Settings > Privacy & Security > Two-Step Verification"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ".\n\nThis password will be required each time you log in on a new device. This way, simply entering an SMS code will not be enough to access any of your data."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 119059,
+                        "type": "message",
+                        "date": "2023-03-20T20:41:55",
+                        "date_unixtime": "1679316115",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 12273. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 12273. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 119661,
+                        "type": "message",
+                        "date": "2023-03-23T11:44:41",
+                        "date_unixtime": "1679543081",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 45279. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 45279. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 119855,
+                        "type": "message",
+                        "date": "2023-03-24T15:13:50",
+                        "date_unixtime": "1679642030",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Enable Two-Step Verification"
+                            },
+                            "\nDear ceewai, your account is currently ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " protected with an additional password and only requires an SMS code to log in.\n\nFor your security, Telegram recommends that you ",
+                            {
+                                "type": "bold",
+                                "text": "set up a password"
+                            },
+                            " in ",
+                            {
+                                "type": "italic",
+                                "text": "Settings > Privacy & Security > Two-Step Verification"
+                            },
+                            ".\n\nThis password will be required each time you log in on a new device. This way, simply entering an SMS code will not be enough to access any of your data."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Enable Two-Step Verification"
+                            },
+                            {
+                                "type": "plain",
+                                "text": "\nDear ceewai, your account is currently "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " protected with an additional password and only requires an SMS code to log in.\n\nFor your security, Telegram recommends that you "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "set up a password"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " in "
+                            },
+                            {
+                                "type": "italic",
+                                "text": "Settings > Privacy & Security > Two-Step Verification"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ".\n\nThis password will be required each time you log in on a new device. This way, simply entering an SMS code will not be enough to access any of your data."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 120077,
+                        "type": "message",
+                        "date": "2023-03-25T20:22:24",
+                        "date_unixtime": "1679746944",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 19564. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 19564. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 150724,
+                        "type": "message",
+                        "date": "2023-06-18T14:21:37",
+                        "date_unixtime": "1687069297",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 94467. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 94467. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 164904,
+                        "type": "message",
+                        "date": "2023-09-23T18:08:17",
+                        "date_unixtime": "1695463697",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 68068. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 68068. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 176369,
+                        "type": "message",
+                        "date": "2023-12-04T20:08:14",
+                        "date_unixtime": "1701691694",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 12002. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 12002. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 176619,
+                        "type": "message",
+                        "date": "2023-12-10T17:28:04",
+                        "date_unixtime": "1702200484",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 99445. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 99445. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 177433,
+                        "type": "message",
+                        "date": "2023-12-16T11:56:07",
+                        "date_unixtime": "1702698967",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            " 55183. Do ",
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "bold",
+                                "text": "Login code:"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " 55183. Do "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "not"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 177434,
+                        "type": "message",
+                        "date": "2023-12-16T11:56:47",
+                        "date_unixtime": "1702699007",
+                        "edited": "2023-12-16T11:57:15",
+                        "edited_unixtime": "1702699035",
+                        "from": "Telegram",
+                        "from_id": "user777000",
+                        "text": [
+                            "⚠️ ",
+                            {
+                                "type": "bold",
+                                "text": "Data export request."
+                            },
+                            " ceewai, we received a request from your account to export your Telegram data. \n\nDevice: Telegram Desktop, 4.11.8 arm64 Mac App Store, MacBook Pro M2 Pro, macOS 14.1.2\nLocation: Singapore, Singapore (IP = ",
+                            {
+                                "type": "link",
+                                "text": "175.156.94.19"
+                            },
+                            ")\n\nFor security reasons, please confirm this request by pressing the ",
+                            {
+                                "type": "bold",
+                                "text": "Allow"
+                            },
+                            " button at the bottom of this message using one of your ",
+                            {
+                                "type": "bold",
+                                "text": "mobile devices"
+                            },
+                            ".\n\nIf you're not logged in on mobile, you can wait for ",
+                            {
+                                "type": "bold",
+                                "text": "24 hours"
+                            },
+                            " before starting the download. Just come back after 03:56:47 UTC on 17/12/2023 and use the same computer to request the data again.\n\nIf you didn't request your data, you should immediately go to ",
+                            {
+                                "type": "bold",
+                                "text": "Settings > Devices"
+                            },
+                            " (or ",
+                            {
+                                "type": "bold",
+                                "text": "Privacy & Security > Active Sessions"
+                            },
+                            ") and terminate any sessions you don't recognize. We recommend setting up an additional password in Settings > Privacy & Security > Two-Step Verification.\n\n✅ ",
+                            {
+                                "type": "bold",
+                                "text": "Accepted"
+                            },
+                            ""
+                        ],
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "⚠️ "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Data export request."
+                            },
+                            {
+                                "type": "plain",
+                                "text": " ceewai, we received a request from your account to export your Telegram data. \n\nDevice: Telegram Desktop, 4.11.8 arm64 Mac App Store, MacBook Pro M2 Pro, macOS 14.1.2\nLocation: Singapore, Singapore (IP = "
+                            },
+                            {
+                                "type": "link",
+                                "text": "175.156.94.19"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ")\n\nFor security reasons, please confirm this request by pressing the "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Allow"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " button at the bottom of this message using one of your "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "mobile devices"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ".\n\nIf you're not logged in on mobile, you can wait for "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "24 hours"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " before starting the download. Just come back after 03:56:47 UTC on 17/12/2023 and use the same computer to request the data again.\n\nIf you didn't request your data, you should immediately go to "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Settings > Devices"
+                            },
+                            {
+                                "type": "plain",
+                                "text": " (or "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Privacy & Security > Active Sessions"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ") and terminate any sessions you don't recognize. We recommend setting up an additional password in Settings > Privacy & Security > Two-Step Verification.\n\n✅ "
+                            },
+                            {
+                                "type": "bold",
+                                "text": "Accepted"
+                            },
+                            {
+                                "type": "plain",
+                                "text": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "SCIS Project HeartCode 2023 Mentors",
+                "type": "private_supergroup",
+                "id": 1929808026,
+                "messages": [
+                    {
+                        "id": 9,
+                        "type": "service",
+                        "date": "2023-09-03T22:37:16",
+                        "date_unixtime": "1693751836",
+                        "actor": "ceewai",
+                        "actor_id": "user762776253",
+                        "action": "join_group_by_link",
+                        "inviter": "Group",
+                        "text": "",
+                        "text_entities": []
+                    },
+                    {
+                        "id": 152,
+                        "type": "message",
+                        "date": "2023-12-11T11:56:32",
+                        "date_unixtime": "1702266992",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "Mentors orders for \n\n1) Angelina\n\nOreo Ice Blended With Pearl from share tea\n\n2) Janie\n\nBrown sugar fresh milk tea \n\n3) Natasha \n\ncreme brûlée mango latte from gongcha\n\n4) Ivan\n\nHoney milk tea with pearl\n\n5) Jamie",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "Mentors orders for \n\n1) Angelina\n\nOreo Ice Blended With Pearl from share tea\n\n2) Janie\n\nBrown sugar fresh milk tea \n\n3) Natasha \n\ncreme brûlée mango latte from gongcha\n\n4) Ivan\n\nHoney milk tea with pearl\n\n5) Jamie"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ryan",
+                "type": "personal_chat",
+                "id": 49538535,
+                "messages": [
+                    {
+                        "id": 418,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:31",
+                        "date_unixtime": "1583913631",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "Wow totally diff profile pic here lol",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "Wow totally diff profile pic here lol"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 419,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:45",
+                        "date_unixtime": "1583913645",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "HAHAHAH",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "HAHAHAH"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 420,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:47",
+                        "date_unixtime": "1583913647",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "yea ike",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "yea ike"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 421,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:48",
+                        "date_unixtime": "1583913648",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "ikr",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "ikr"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 422,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:50",
+                        "date_unixtime": "1583913650",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "big shift",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "big shift"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 423,
+                        "type": "message",
+                        "date": "2020-03-11T16:00:57",
+                        "date_unixtime": "1583913657",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "well also",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "well also"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 424,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:06",
+                        "date_unixtime": "1583913666",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "staingate was a huge problem",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "staingate was a huge problem"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 425,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:08",
+                        "date_unixtime": "1583913668",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "same for me also",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "same for me also"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 426,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:15",
+                        "date_unixtime": "1583913675",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "thank god they increased the length",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "thank god they increased the length"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 427,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:19",
+                        "date_unixtime": "1583913679",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "of the cable",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "of the cable"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 428,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:33",
+                        "date_unixtime": "1583913693",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "my comp kena a bit like after 3 years the screen got the stains of the keyboard so i was like try to smoke and get it changed",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "my comp kena a bit like after 3 years the screen got the stains of the keyboard so i was like try to smoke and get it changed"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 429,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:38",
+                        "date_unixtime": "1583913698",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "and the 14 inch macbook sounds like itll be damn promising",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "and the 14 inch macbook sounds like itll be damn promising"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 430,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:38",
+                        "date_unixtime": "1583913698",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 426,
+                        "text": "?????",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "?????"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 431,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:48",
+                        "date_unixtime": "1583913708",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 430,
+                        "text": "o shit ps",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "o shit ps"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 432,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:50",
+                        "date_unixtime": "1583913710",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "hey mine got MagSafe HAHHAHA although i dont even trip over my comp",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "hey mine got MagSafe HAHHAHA although i dont even trip over my comp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 433,
+                        "type": "message",
+                        "date": "2020-03-11T16:01:51",
+                        "date_unixtime": "1583913711",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "my mind",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "my mind"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 434,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:05",
+                        "date_unixtime": "1583913725",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "just gone bonkers",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "just gone bonkers"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 435,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:13",
+                        "date_unixtime": "1583913733",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 432,
+                        "text": "ah yes ofc",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "ah yes ofc"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 436,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:19",
+                        "date_unixtime": "1583913739",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 429,
+                        "text": "provided it has the stuff that a 15 inch pro machine can offer",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "provided it has the stuff that a 15 inch pro machine can offer"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 437,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:19",
+                        "date_unixtime": "1583913739",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "i missed magsafe sia",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "i missed magsafe sia"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 438,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:35",
+                        "date_unixtime": "1583913755",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "I started poly with ASUS vivobook S14",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "I started poly with ASUS vivobook S14"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 439,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:37",
+                        "date_unixtime": "1583913757",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 436,
+                        "text": "honestly integrated graphics is good enuf la",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "honestly integrated graphics is good enuf la"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 440,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:50",
+                        "date_unixtime": "1583913770",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 438,
+                        "text": "wa thats damn sad",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "wa thats damn sad"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 441,
+                        "type": "message",
+                        "date": "2020-03-11T16:02:55",
+                        "date_unixtime": "1583913775",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "i started poly with a dell xps 13",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "i started poly with a dell xps 13"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 442,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:00",
+                        "date_unixtime": "1583913780",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "really die from my work coz i7-8550U, 512SSD, 8GB RAM",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "really die from my work coz i7-8550U, 512SSD, 8GB RAM"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 443,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:13",
+                        "date_unixtime": "1583913793",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 441,
+                        "text": "WHAT THE....OK U R RICH",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "WHAT THE....OK U R RICH"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 444,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:23",
+                        "date_unixtime": "1583913803",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "but then 1 year later i was like ok thats it i cannot take it",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "but then 1 year later i was like ok thats it i cannot take it"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 445,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:28",
+                        "date_unixtime": "1583913808",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "so went to ThinkPad",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "so went to ThinkPad"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 446,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:34",
+                        "date_unixtime": "1583913814",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 442,
+                        "text": "lmao yea our gen was b4 comet lake",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "lmao yea our gen was b4 comet lake"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 447,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:40",
+                        "date_unixtime": "1583913820",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 443,
+                        "text": "got it for less than 1k",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "got it for less than 1k"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 448,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:44",
+                        "date_unixtime": "1583913824",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "8gb 256gb",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "8gb 256gb"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 449,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:48",
+                        "date_unixtime": "1583913828",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 447,
+                        "text": "NANIIIIII",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "NANIIIIII"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 450,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:56",
+                        "date_unixtime": "1583913836",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 448,
+                        "text": "ok thats like base model level",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "ok thats like base model level"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 451,
+                        "type": "message",
+                        "date": "2020-03-11T16:03:57",
+                        "date_unixtime": "1583913837",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "i7-8550",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "i7-8550"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 452,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:00",
+                        "date_unixtime": "1583913840",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "yeboi",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "yeboi"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 453,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:06",
+                        "date_unixtime": "1583913846",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 445,
+                        "text": "good choice",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "good choice"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 454,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:09",
+                        "date_unixtime": "1583913849",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "honestly id say",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "honestly id say"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 455,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:14",
+                        "date_unixtime": "1583913854",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "but now my ThinkPad i speced out till it's like",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "but now my ThinkPad i speced out till it's like"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 456,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:19",
+                        "date_unixtime": "1583913859",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "surface laptop 3",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "surface laptop 3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 457,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:21",
+                        "date_unixtime": "1583913861",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "ASUS can only handle host machine + 2 VMs",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "ASUS can only handle host machine + 2 VMs"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 458,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:32",
+                        "date_unixtime": "1583913872",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "now my thinkpad can do host mahine + 6 VMs",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "now my thinkpad can do host mahine + 6 VMs"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 459,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:35",
+                        "date_unixtime": "1583913875",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "nice",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "nice"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 460,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:42",
+                        "date_unixtime": "1583913882",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "reply_to_message_id": 456,
+                        "text": "this is form over function",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "this is form over function"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 461,
+                        "type": "message",
+                        "date": "2020-03-11T16:04:59",
+                        "date_unixtime": "1583913899",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 460,
+                        "text": "my friend has it and the usability is damn solid dood",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "my friend has it and the usability is damn solid dood"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 462,
+                        "type": "message",
+                        "date": "2020-03-11T16:05:09",
+                        "date_unixtime": "1583913909",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "reply_to_message_id": 458,
+                        "text": "anything intensive",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "anything intensive"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 463,
+                        "type": "message",
+                        "date": "2020-03-11T16:05:09",
+                        "date_unixtime": "1583913909",
+                        "from": "Ryan Ching",
+                        "from_id": "user49538535",
+                        "text": "i upgraded to 16GB RAM, 1TB HDD and 128GB SSD",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "i upgraded to 16GB RAM, 1TB HDD and 128GB SSD"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 464,
+                        "type": "message",
+                        "date": "2020-03-11T16:05:11",
+                        "date_unixtime": "1583913911",
+                        "from": "ceewai",
+                        "from_id": "user762776253",
+                        "text": "ill switch to my pc",
+                        "text_entities": [
+                            {
+                                "type": "plain",
+                                "text": "ill switch to my pc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
